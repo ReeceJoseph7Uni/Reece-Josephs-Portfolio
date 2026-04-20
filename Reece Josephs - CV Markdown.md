@@ -1,3 +1,8 @@
+---
+layout: default
+title: Reece Josephs
+---
+
 <h1 align="center">Reece Josephs</h1>
 <p align="center">
 💻 Student Software Engineer | Final Year ICT Student  
