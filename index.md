@@ -126,8 +126,8 @@ March 2019 – June 2021
 
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" width="500"/>
+  <a href="My Mock Interview - Reece Josephs.m4v" target="_blank">
+    <img src="My Mock Interview - Reece Josephs.m4v" width="500"/>
   </a>
 </p>
 
